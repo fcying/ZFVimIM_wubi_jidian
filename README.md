@@ -1,5 +1,6 @@
 
-wubi db file for [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)
+jidian wubi db file for [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)  
+`editable` is disalbed by default
 
 # configs
 

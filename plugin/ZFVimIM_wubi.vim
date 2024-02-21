@@ -6,6 +6,7 @@ function! s:dbInit()
 
     let db = ZFVimIM_dbInit({
                 \   'name' : 'wubi',
+                \   'editable' : 0,
                 \ })
     call ZFVimIM_cloudRegister({
                 \   'mode' : 'git',
